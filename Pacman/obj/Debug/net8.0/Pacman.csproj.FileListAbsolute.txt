@@ -1,0 +1,14 @@
+D:\MyProjects\CSharpTasks\Pacman\Pacman\bin\Debug\net8.0\Pacman.exe
+D:\MyProjects\CSharpTasks\Pacman\Pacman\bin\Debug\net8.0\Pacman.deps.json
+D:\MyProjects\CSharpTasks\Pacman\Pacman\bin\Debug\net8.0\Pacman.runtimeconfig.json
+D:\MyProjects\CSharpTasks\Pacman\Pacman\bin\Debug\net8.0\Pacman.dll
+D:\MyProjects\CSharpTasks\Pacman\Pacman\bin\Debug\net8.0\Pacman.pdb
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.AssemblyInfoInputs.cache
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.AssemblyInfo.cs
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.csproj.CoreCompileInputs.cache
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.dll
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\refint\Pacman.dll
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.pdb
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\Pacman.genruntimeconfig.cache
+D:\MyProjects\CSharpTasks\Pacman\Pacman\obj\Debug\net8.0\ref\Pacman.dll
